@@ -1,1 +1,11 @@
-
+{
+  "description": "Bangoura's personal developer website",
+  "repo": "https://github.com/bangus-gn/portofolio",
+  "owner": {
+    "username": "bangus",
+    "email": "bangus.professional@gmail.com"
+  },
+  "record": {
+    "CNAME": "bangus-gn/portofolio"
+  }
+}
